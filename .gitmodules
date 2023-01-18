@@ -1,0 +1,9 @@
+[submodule "components/alef"]
+	path = components/alef
+	url = git@github.com:git-submodule-demo/alef.git
+[submodule "components/bet"]
+	path = components/bet
+	url = git@github.com:git-submodule-demo/bet.git
+[submodule "components/gimel"]
+	path = components/gimel
+	url = git@github.com:git-submodule-demo/gimel.git
